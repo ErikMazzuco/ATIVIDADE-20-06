@@ -1,7 +1,7 @@
 <h1>ATIVIDADE AULA 20/06</h1>
 
 
-Adicionar a tabela ##funcionario:
+Adicionar a tabela * funcionario:
 
 - id
 - nome
