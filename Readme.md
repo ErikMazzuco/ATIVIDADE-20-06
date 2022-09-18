@@ -1,7 +1,7 @@
 <h1>ATIVIDADE AULA 20/06</h1>
 
 
-Adicionar a tabela ## funcionario:
+Adicionar a tabela  funcionario:
 
 - id
 - nome
@@ -12,4 +12,4 @@ Adicionar a tabela ## funcionario:
 
 Realizar o processo para o cadastro de funcionarios
 
-autor = "Erik Mazzuco"
+autor Erik Mazzuco
